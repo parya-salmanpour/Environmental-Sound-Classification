@@ -1,0 +1,7 @@
+ESC-50-master/
+data/
+outputs/*.npz
+outputs/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
